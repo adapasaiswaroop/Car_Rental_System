@@ -15,12 +15,12 @@ class customer // customer class
     string carmodel;
     string carnumber;
     char data;
-    // variables are defined in this class in public mode.
+    // variables are defined in this class in public mode //.
 };
 class rent : public customer // inhereted class from customer class
 {
 	public:
-	int days=0,rentalfee=0; // additional int vatiables defined
+	int days=0,rentalfee=0; // additional int vatiables defined //
 	void data()
 	{
 		int login();
