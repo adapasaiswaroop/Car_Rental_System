@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <dos.h>
 #include <iomanip> 
-// included required library files
+
 using namespace std;
 class customer // customer class
 {
