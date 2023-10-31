@@ -7,7 +7,7 @@
 #include <iomanip> 
 
 using namespace std;
-class customer // customer class
+class customer // customer  class
 {
 	private:
 	public:
